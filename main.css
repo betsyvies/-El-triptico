@@ -1,0 +1,94 @@
+* {
+    box-sizing: border-box;
+}
+#conteiner {
+    width: 530px;
+    height: 476px;
+    outline: 1px solid black;
+}
+#boxTop {
+    outline: 1px solid black;
+    width: 530px;
+    height: 32px;
+    font-size: 20px;;
+    font-family: serif;
+    background: #ffc300; 
+    display: table;
+}
+#recognition {
+    text-align: center;
+    margin: 0;
+    display: table-cell;
+    vertical-align: middle;    
+}
+#boxLeft {
+    width: 150px;
+    height: 420px;
+    font-family: serif;  
+    float: left;     
+}
+.text{
+    margin: 15px;
+    height: 215px;
+    font-size: 15px;
+    text-align: justify;
+}
+#boxCenter{
+    border: 1px solid black;
+    width: 228px;
+    height: 420px;
+    margin-left: 1px;
+    font-family: serif;
+    float: right;
+}
+.textCenter1 {
+    margin: 38px;
+    height: 30px;
+    font-size: 15px;
+    text-align: justify;
+}
+.textCenter2 {
+    margin: 38px;
+    height: 230px;
+    font-size: 15px;
+    text-align: justify;
+}
+h1 {
+    margin: 35px;
+    text-align: center;
+    font-size: 23px;
+}
+#boxRight {
+    width: 151px;
+    height: 420px;
+    font-family: serif;
+    float: right;
+}
+h2 {
+    margin: 24px;
+    text-align: center;
+    font-size: 18px;
+}
+img {
+    width: 150px;
+    height:120px;
+    max-width: 100%;
+}
+#boxBottom {
+    outline: 1px solid black;
+    width: 530px;
+    height: 24px;
+    text-align: center;
+    font-family: serif;
+    background-color: #ffc300;
+    clear: both;
+    display: table;
+}
+#appointment {
+    text-align: center;
+    margin: 0;
+    display: table-cell;
+    vertical-align: middle;    
+}
+
+
